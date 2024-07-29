@@ -1,0 +1,10 @@
+{
+    "token": "discordbottokeniniz",
+    "guildId": "sunucuidniz",
+    "voiceChannelId": "seskanaliidniz",
+    "activity": [
+        { "name": "Sizi", "type": "LISTENING" },
+        { "name": "Hayatımla", "type": "PLAYING" },
+        { "name": "Seni", "type": "WATCHING" }
+    ]
+}
