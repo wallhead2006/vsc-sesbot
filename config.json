@@ -1,7 +1,7 @@
 {
-    "token": "discordbottokeniniz",
-    "guildId": "sunucuidniz",
-    "voiceChannelId": "seskanaliidniz",
+    "token": "MTI3NTU1MDEwOTg1NzQ4MDc1Nw.G98s9P.SiMNOeOBb_CRk4b7ejM8sBDW0gKFrUSfxXvDw8",
+    "guildId": "1177626547524485180",
+    "voiceChannelId": "1271427667576619070",
     "activity": [
         { "name": "Sizi", "type": "LISTENING" },
         { "name": "Hayatımla", "type": "PLAYING" },
